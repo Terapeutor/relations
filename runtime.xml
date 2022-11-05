@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CINE FEEL GOOD">
     <display-name lang="es">CINE FEEL GOOD</display-name>
         <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
@@ -8,43 +9,43 @@
   <channel id="RUNTIME ACCION">
     <display-name lang="es">RUNTIME ACCION</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
  
  <channel id="RUNTIME COMEDIA">
     <display-name lang="es">RUNTIME COMEDIA</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
 
   <channel id="RUNTIME THRILLER+TERROR">
     <display-name lang="es">RUNTIME THRILLER+TERROR</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
 
   <channel id="RUNTIME CRIMEN">
     <display-name lang="es">RUNTIME CRIMEN</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
 
   <channel id="RUNTIME ROMANCE">
     <display-name lang="es">RUNTIME ROMANCE</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
  
  <channel id="RUNTIME CLASICOS">
     <display-name lang="es">RUNTIME CLASICOS</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
   
    <channel id="RUNTIME">
     <display-name lang="es">RUNTIME</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" />
-    <url>https://www.runtime.tv/</url>
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
 
   <channel id="ITA PRINCIPIANTE">
