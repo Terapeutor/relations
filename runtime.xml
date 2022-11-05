@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <channel id="CINE FEEL GOOD">
+    <display-name lang="es">CINE FEEL GOOD</display-name>
+        <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
+    <url>https://madrid.cines-verdi.com/</url>
+  </channel>
+  
+  <channel id="RUNTIME ACCION">
+    <display-name lang="es">RUNTIME ACCION</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+ 
+ <channel id="RUNTIME COMEDIA">
+    <display-name lang="es">RUNTIME COMEDIA</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+
+  <channel id="RUNTIME THRILLER+TERROR">
+    <display-name lang="es">RUNTIME THRILLER+TERROR</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+
+  <channel id="RUNTIME CRIMEN">
+    <display-name lang="es">RUNTIME CRIMEN</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+
+  <channel id="RUNTIME ROMANCE">
+    <display-name lang="es">RUNTIME ROMANCE</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+ 
+ <channel id="RUNTIME CLASICOS">
+    <display-name lang="es">RUNTIME CLASICOS</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+  
+   <channel id="RUNTIME">
+    <display-name lang="es">RUNTIME</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" />
+    <url>https://www.runtime.tv/</url>
+  </channel>
+
+  <channel id="ITA PRINCIPIANTE">
+    <display-name lang="es">ITA PRINCIPIANTE</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+    <url>https://tivify.tv/</url>
+  </channel>
+
+  <channel id="ITA INTERMEDIO">
+    <display-name lang="es">ITA INTERMEDIO</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+    <url>https://tivify.tv/</url>
+  </channel>
+
+  <channel id="ITA AVANZADO">
+    <display-name lang="es">ITA AVANZADO</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+    <url>https://tivify.tv/</url>
+  </channel>
+
+  <channel id="QELLO CONCERTS">
+    <display-name lang="es">QELLO CONCERTS</display-name>
+	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+    <url>https://tivify.tv/</url>
+  </channel>
+
+ 
+   <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
+    <title lang="es">Cine para sentirse bien</title>
+    <desc lang="es">| ★★★★★ | +SC | Europa | Entretenimiento. 
+Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine positivo dirigido al gran público de todas las edades, protagonizado por películas capaces de hacernos sentir bien, donde lo que vale es disfrutar con el claro objetivo de que el espectador pase un rato agradable. En el canal Cine Feel Good, se podrá encontrar cine europeo de calidad, enfocado a un público dispuesto a disfrutar y aprender de él.. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Positivo</category>
+    <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+   <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ACCION">
+    <title lang="es">Cine de acción</title>
+    <desc lang="es">| ★★★★★ | +18 | Europa/América | Acción. 
+Argumento: Canal temático en el que se emiten películas del género de acción. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_accion_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+<programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME COMEDIA">
+    <title lang="es">Cine de comedia</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Comedia. 
+Argumento: Canal temático en el que se emiten películas del género de comedia. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_comedia_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  
+<programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME THRILLER+TERROR">
+    <title lang="es">Cine de Thriller y terror </title>
+    <desc lang="es">| ★★★★★ | +18 | Europa/América | Thriller y terror. 
+Argumento: Canal temático en el que se emiten películas de suspense y películas de terror. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Suspense y terror</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+<programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CRIMEN">
+    <title lang="es">Cine de crimen</title>
+    <desc lang="es">| ★★★★★ | +18 | Europa/América | Crimen. 
+Argumento: Canal temático en el que se emiten películas sobre crímenes.. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ROMANCE">
+    <title lang="es">Cine romántico</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Romántico. 
+Argumento: canal temático en el que se emiten películas románticas. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Romántico</category>
+    <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Cine online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  
+<programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CLASICOS">
+    <title lang="es">Cine clásico</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Clásicos. 
+Argumento: Canal temático en el que se emiten películas clásicas. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Clásico</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_clasicos_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Educación online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
+    <title lang="es">Cine para todos los gustos</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Todo en cine. 
+Argumento: Canal que durante todo el día va alternando películas y series de televisión.. </desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Series</category>
+    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_16x9.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Educación online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>  
+
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
+    <title lang="es">Ingles nivel principiante</title>
+    <desc lang="es">| ★★★★★ | TP | Europa | Educacional. 
+Argumento: Canal temático para aprender inglés a un nivel principiante. </desc>
+    <category lang="es">Inglés</category>
+    <category lang="es">Educación</category>
+    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62c6c0362e44d90022697156_nivel-basico-caratula.png" />
+    <country lang="es">Ingles/Español</country>
+    <episode-num system="onscreen">Educación online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA INTERMEDIO">
+    <title lang="es">Inglés nivel intermedio</title>
+    <desc lang="es">| ★★★★★ | TP | Europa | Educacional. 
+Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
+    <category lang="es">Inglés</category>
+    <category lang="es">Educación</category>
+    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62cfc102109c93001a7caa76_nivel-intermedio-caratula.png" />
+    <country lang="es">Inglés/Español</country>
+    <episode-num system="onscreen">Educación online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+
+  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA AVANZADO">
+    <title lang="es">Cine para sentirse bien</title>
+    <desc lang="es">| ★★★★★ | TP | Europa | Entretenimiento. 
+Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
+    <category lang="es">Inglés</category>
+    <category lang="es">Educación</category>
+    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62d144cf28f322002149e8d8_nivel-avanzado-caratula.png" />
+    <country lang="es">Inglés/Español</country>
+    <episode-num system="onscreen">Educación online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS">
+    <title lang="es">Conciertos Qello Stingray</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
+Argumento: Conciertos en vivo de los artistas más importantes del panorama musical.</desc>
+    <category lang="es">Música</category>
+    <category lang="es">Conciertos</category>
+    <icon src="https://media.tvup.cloud/epg/prog_3071060/p_generic_Pt_628b2d6a76d04a001a52833f.png" />
+    <country lang="es">Varios</country>
+    <episode-num system="onscreen">Música online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme> 
+
+</tv>  
+
