@@ -72,6 +72,12 @@
     <url>https://tivify.tv/</url>
   </channel>
 
+  <channel id="NATURETIME">
+    <display-name lang="es">Documentales naturaleza</display-name>
+	<icon src="" />
+    <url>https://tivify.tv/</url>
+  </channel>
+
  
    <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
     <title lang="es">Cine para sentirse bien</title>
@@ -180,7 +186,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
   
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
     <title lang="es">Cine y series</title>
-    <desc lang="es">| ★★★★★ | SC | Europa/América | Todo en cine. 
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Todo el cine y series. 
 Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Series</category>
@@ -192,6 +198,21 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
     </star-rating>
     <review type="text">Ratings: Tp.</review>
   </programme>  
+
+<programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="NATURETIME">
+    <title lang="es">Documentales naturaleza</title>
+    <desc lang="es">| ★★★★★ | TP | Europa/América | Documentales naturaleza en español 24/7. 
+Argumento: Canal 24 horas al día dedicado a la naturaleza. Muy recomendado para todos los públicos. </desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://www.naturetime.es/2018/wp-content/uploads/2018/12/logo-naturetime-curt.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">Documentales</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
 
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
     <title lang="es">Ingles nivel principiante</title>
