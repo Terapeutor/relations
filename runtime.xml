@@ -35,6 +35,12 @@
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
     <url>https://www.runtime.tv/?section=epgchannelssection</url>
   </channel>
+
+  <channel id="RUNTIME">
+    <display-name lang="es">RUNTIME</display-name>
+        <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
+    <url>https://www.runtime.tv/?section=epgchannelssection</url>
+  </channel>
  
  <channel id="RUNTIME CLASICOS">
     <display-name lang="es">RUNTIME CLASICOS</display-name>
@@ -173,14 +179,14 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
   </programme>
   
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
-    <title lang="es">Cine para todos los gustos</title>
+    <title lang="es">Cine y series</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Todo en cine. 
 Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Series</category>
-    <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_16x9.jpg" />
+    <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_es_1920x1080_0.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Educación online</episode-num>
+    <episode-num system="onscreen">Cine y Series</episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
