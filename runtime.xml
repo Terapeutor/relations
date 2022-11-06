@@ -222,7 +222,7 @@ Argumento: Canal 24 horas al día dedicado a la naturaleza. Muy recomendado para
 
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
     <title lang="es">Ingles nivel principiante</title>
-    <desc lang="es">| ★★★★★ | TP | Europa | Educacional. 
+    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel principiante. </desc>
     <category lang="es">Inglés</category>
     <category lang="es">Educación</category>
@@ -237,9 +237,9 @@ Argumento: Canal temático para aprender inglés a un nivel principiante. </desc
 
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA INTERMEDIO">
     <title lang="es">Inglés nivel intermedio</title>
-    <desc lang="es">| ★★★★★ | TP | Europa | Educacional. 
+    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
-    <category lang="es">Inglés</category>
+    <category lang="es">Inglés/Español</category>
     <category lang="es">Educación</category>
     <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62cfc102109c93001a7caa76_nivel-intermedio-caratula.png" />
     <country lang="es">Inglés/Español</country>
@@ -252,9 +252,9 @@ Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
 
   <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="ITA AVANZADO">
     <title lang="es">Inglés nivel avanzado</title>
-    <desc lang="es">| ★★★★★ | TP | Europa | Entretenimiento. 
+    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
-    <category lang="es">Inglés</category>
+    <category lang="es">Inglés/Español</category>
     <category lang="es">Educación</category>
     <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62d144cf28f322002149e8d8_nivel-avanzado-caratula.png" />
     <country lang="es">Inglés/Español</country>
