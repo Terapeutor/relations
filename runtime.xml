@@ -87,7 +87,7 @@
  
    <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
     <title lang="es">Cine para sentirse bien</title>
-    <desc lang="es">| ★★★★★ | +SC | Europa | Entretenimiento. 
+    <desc lang="es">| ★★★★★ | SC | Europa | Entretenimiento. 
 Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine positivo dirigido al gran público de todas las edades, protagonizado por películas capaces de hacernos sentir bien, donde lo que vale es disfrutar con el claro objetivo de que el espectador pase un rato agradable. En el canal Cine Feel Good, se podrá encontrar cine europeo de calidad, enfocado a un público dispuesto a disfrutar y aprender de él.. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Positivo</category>
@@ -103,7 +103,7 @@ Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine p
    <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ACCION">
     <title lang="es">Cine de acción</title>
     <desc lang="es">| ★★★★★ | +18 | Europa/América | Acción. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas del género de acción. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas del género de acción. Contiene cortes publicitarios. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_accion_16x9.jpg" />
@@ -118,7 +118,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
 <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME COMEDIA">
     <title lang="es">Cine de comedia</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Comedia. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas del género de comedia. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas del género de comedia. Contiene cortes publicitarios.</desc>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_comedia_16x9.jpg" />
@@ -133,7 +133,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
 <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME THRILLER+TERROR">
     <title lang="es">Cine de Thriller y terror </title>
     <desc lang="es">| ★★★★★ | +18 | Europa/América | Thriller y terror. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas de suspense y películas de terror. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas de suspense y películas de terror. Contiene cortes publicitarios.</desc>
     <category lang="es">Cine</category>
     <category lang="es">Suspense y terror</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_16x9.jpg" />
@@ -148,7 +148,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
 <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CRIMEN">
     <title lang="es">Cine de crimen</title>
     <desc lang="es">| ★★★★★ | +18 | Europa/América | Crimen. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas sobre crímenes.. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas sobre crímenes. Contiene cortes publicitarios. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Crimen</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_16x9.jpg" />
@@ -163,7 +163,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ROMANCE">
     <title lang="es">Cine romántico</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Romántico. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas románticas. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas románticas. Contiene cortes publicitarios. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Romántico</category>
     <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9.jpg" />
@@ -178,7 +178,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
 <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CLASICOS">
     <title lang="es">Cine clásico</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Clásicos. 
-Argumento: Canal temático de la plataforma Runtime en el que se emiten películas clásicas. </desc>
+Argumento: Canal temático de la plataforma Runtime en el que se emiten películas clásicas. Contiene cortes publicitarios. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Clásico</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_clasicos_16x9.jpg" />
@@ -193,7 +193,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
     <title lang="es">Cine y series</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Todo el cine y series. 
-Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. </desc>
+Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. Contiene cortes publicitarios. </desc>
     <category lang="es">Cine</category>
     <category lang="es">Series</category>
     <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_es_1920x1080_0.jpg" />
@@ -208,7 +208,7 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
 <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="NATURETIME">
     <title lang="es">Documentales naturaleza</title>
     <desc lang="es">| ★★★★★ | TP | Europa/América | Documentales naturaleza en español 24/7. 
-Argumento: Canal 24 horas al día dedicado a la naturaleza. Muy recomendado para todos los públicos. </desc>
+Argumento: Canal 24 horas al día dedicado a la naturaleza. Muy recomendado para todos los públicos. Contiene cortes publicitarios.</desc>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
     <icon src="http://www.naturetime.es/2018/wp-content/uploads/2018/12/logo-naturetime-curt.jpg" />
@@ -268,7 +268,7 @@ Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
  <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS">
     <title lang="es">Conciertos Qello Stingray</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
-Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray.</desc>
+Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray. Contiene cortes publicitarios.</desc>
     <category lang="es">Música</category>
     <category lang="es">Conciertos</category>
     <icon src="https://media.tvup.cloud/epg/prog_3071060/p_generic_Pt_628b2d6a76d04a001a52833f.png" />
