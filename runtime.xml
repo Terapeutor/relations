@@ -72,6 +72,12 @@
     <url>https://tivify.tv/</url>
   </channel>
 
+ <channel id="CADENA ELITE">
+    <display-name lang="es">CADENA ELITE</display-name>
+	<icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+    <url>https://www.cadenaelite.es/</url>
+  </channel>
+
   <channel id="NATURETIME">
     <display-name lang="es">Documentales naturaleza</display-name>
 	<icon src="" />
@@ -273,6 +279,25 @@ Argumento: Conciertos en vivo de los artistas más importantes del panorama musi
     </star-rating>
     <review type="text">Ratings: Tp.</review>
   </programme> 
+
+ <programme start="20221103005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
+    <title lang="es">Música española y latina</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
+Argumento: Cadena musical con sede en Granada que emite musica española y latina 24/7.</desc>
+    <category lang="es">Música</category>
+    <category lang="es">Española y latina</category>
+    <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+    <country lang="es">Español</country>
+    <episode-num system="onscreen">Música online</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme> 
+
+
+
+
 
 </tv>  
 
