@@ -80,7 +80,7 @@
 
   <channel id="NATURETIME">
     <display-name lang="es">Documentales naturaleza</display-name>
-	<icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+	<icon src="" />
     <url>https://tivify.tv/</url>
   </channel>
 
