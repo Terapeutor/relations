@@ -3,88 +3,69 @@
   <channel id="CINE FEEL GOOD">
     <display-name lang="es">CINE FEEL GOOD</display-name>
         <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
-    <url>https://madrid.cines-verdi.com/</url>
-  </channel>
+    </channel>
   
   <channel id="RUNTIME ACCION">
     <display-name lang="es">RUNTIME ACCION</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
  
  <channel id="RUNTIME COMEDIA">
     <display-name lang="es">RUNTIME COMEDIA</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
 
   <channel id="RUNTIME THRILLER+TERROR">
     <display-name lang="es">RUNTIME THRILLER+TERROR</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
 
   <channel id="RUNTIME CRIMEN">
     <display-name lang="es">RUNTIME CRIMEN</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
 
   <channel id="RUNTIME ROMANCE">
     <display-name lang="es">RUNTIME ROMANCE</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
 
   <channel id="RUNTIME">
     <display-name lang="es">RUNTIME</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
  
  <channel id="RUNTIME CLASICOS">
     <display-name lang="es">RUNTIME CLASICOS</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" />
-    <url>https://www.runtime.tv/?section=epgchannelssection</url>
-  </channel>
+    </channel>
 
   <channel id="ITA PRINCIPIANTE">
     <display-name lang="es">ITA PRINCIPIANTE</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    <url>https://tivify.tv/</url>
-  </channel>
+    </channel>
 
   <channel id="ITA INTERMEDIO">
     <display-name lang="es">ITA INTERMEDIO</display-name>
         <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    <url>https://tivify.tv/</url>
-  </channel>
+    </channel>
 
   <channel id="ITA AVANZADO">
     <display-name lang="es">ITA AVANZADO</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    <url>https://tivify.tv/</url>
-  </channel>
+    </channel>
 
   <channel id="QELLO CONCERTS">
     <display-name lang="es">QELLO CONCERTS</display-name>
 	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    <url>https://tivify.tv/</url>
-  </channel>
+    </channel>
 
  <channel id="CADENA ELITE">
     <display-name lang="es">CADENA ELITE</display-name>
 	<icon src="https://www.cadenaelite.es/img/logoMenu.png" />
-    <url>https://www.cadenaelite.es/</url>
-  </channel>
+    </channel>
 
-  <channel id="NATURETIME">
-    <display-name lang="es">Documentales naturaleza</display-name>
-	<icon src="http://www.naturetime.es/2018/wp-content/uploads/2018/12/logo-naturetime-curt.jpg" />
-    <url>https://tivify.tv/</url>
-  </channel>
 
- 
    <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
     <title lang="es">Cine para sentirse bien</title>
     <desc lang="es">| ★★★★★ | SC | Europa | Entretenimiento. 
@@ -204,21 +185,6 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
     </star-rating>
     <review type="text">Ratings: Tp.</review>
   </programme>  
-
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="NATURETIME">
-    <title lang="es">Documentales naturaleza</title>
-    <desc lang="es">| ★★★★★ | TP | Europa/América | Documentales naturaleza en español 24/7. 
-Argumento: Canal 24 horas al día dedicado a la naturaleza. Muy recomendado para todos los públicos. Contiene cortes publicitarios.</desc>
-    <category lang="es">Documentales</category>
-    <category lang="es">Naturaleza</category>
-    <icon src="http://www.naturetime.es/2018/wp-content/uploads/2018/12/logo-naturetime-curt.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">Documentales</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-  </programme>
 
  <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
     <title lang="es">Ingles nivel principiante</title>
