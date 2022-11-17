@@ -80,7 +80,7 @@
 
   <channel id="NATURETIME">
     <display-name lang="es">Documentales naturaleza</display-name>
-	<icon src="" />
+	<icon src="http://www.naturetime.es/2018/wp-content/uploads/2018/12/logo-naturetime-curt.jpg" />
     <url>https://tivify.tv/</url>
   </channel>
 
