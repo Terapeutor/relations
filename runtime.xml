@@ -74,7 +74,7 @@ Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine p
     <category lang="es">Positivo</category>
     <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -89,7 +89,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Acción</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_accion_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -104,7 +104,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Comedia</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_comedia_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -119,7 +119,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Suspense y terror</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -134,7 +134,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Crimen</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -149,7 +149,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Romántico</category>
     <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -164,7 +164,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <category lang="es">Clásico</category>
     <icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_clasicos_16x9.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Educación online</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
@@ -179,7 +179,7 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
     <category lang="es">Series</category>
     <icon src="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_es_1920x1080_0.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">Cine y Series</episode-num>
+    <episode-num system="onscreen"></episode-num>
     <star-rating system="ES">
       <value>★★★★★</value>
     </star-rating>
