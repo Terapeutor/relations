@@ -65,6 +65,32 @@
 	<icon src="https://www.cadenaelite.es/img/logoMenu.png" />
     </channel>
 
+ <channel id="Movistar+1 4K">
+    <display-name lang="es">Movistar+1 4K</display-name>
+    <display-name lang="es">M+ Cine 1 4K</display-name>
+	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    </channel>
+
+ <channel id="Movistar+2 4K">
+    <display-name lang="es">Movistar+2 4K</display-name>
+    <display-name lang="es">M+ Cine 2 4KK</display-name>
+	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    </channel>
+
+ <channel id="Movistar+3 4K">
+    <display-name lang="es">Movistar+3 4K</display-name>
+    <display-name lang="es">M+ Cine 3 4K</display-name>
+	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    </channel>
+
+ <channel id="Movistar+4 4K">
+    <display-name lang="es">Movistar+4 4K</display-name>
+    <display-name lang="es">M+ Cine 4 4K</display-name>
+	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    </channel>
+
+
+
 
    <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
     <title lang="es">Cine para sentirse bien</title>
@@ -276,9 +302,62 @@ Argumento: Cadena musical con sede en Granada que emite musica española y latin
     <review type="text">Ratings: Tp.</review>
   </programme> 
 
+ <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+1 4K">
+    <title lang="es">Cine y series 4K HDR10</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Cine en 4K HDR10. 
+    Canal de la plataforma Movistar+ que emite durante todo el día películas en formato 4K HDR10.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen"></episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: SC.</review>
+  </programme> 
 
 
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+2 4K">
+    <title lang="es">Cine y series 4K HDR10</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Cine en 4K HDR10. 
+    Canal de la plataforma Movistar+ que emite durante todo el día películas en formato 4K HDR10.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen"></episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: SC.</review>
+  </programme> 
 
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+3 4K">
+    <title lang="es">Cine y series 4K HDR10</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Cine en 4K HDR10. 
+    Canal de la plataforma Movistar+ que emite durante todo el día películas en formato 4K HDR10.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen"></episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: SC.</review>
+  </programme> 
+
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+4 4K">
+    <title lang="es">Cine y series 4K HDR10</title>
+    <desc lang="es">| ★★★★★ | SC | Europa/América | Cine en 4K HDR10. 
+    Canal de la plataforma Movistar+ que emite durante todo el día películas en formato 4K HDR10.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen"></episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: SC.</review>
+  </programme> 
 
 </tv>  
 
