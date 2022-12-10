@@ -84,14 +84,14 @@
     </channel>
 
  <channel id="Movistar+4 4K">
-    <display-name lang="es">Movistar+5 4K</display-name>
-    <display-name lang="es">M+ Cine 5 4K</display-name>
+    <display-name lang="es">Movistar+4 4K</display-name>
+    <display-name lang="es">M+ Cine 4 4K</display-name>
 	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
     </channel>
 
  <channel id="Movistar+5 4K">
-    <display-name lang="es">Movistar+3 4K</display-name>
-    <display-name lang="es">M+ Cine 3 4K</display-name>
+    <display-name lang="es">Movistar+5 4K</display-name>
+    <display-name lang="es">M+ Cine 5 4K</display-name>
 	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
     </channel>
 
