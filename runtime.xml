@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 
-  <channel id="CINE FEEL GOOD">
+<channel id="CINE FEEL GOOD">
     <display-name lang="es">CINE FEEL GOOD</display-name>
-        <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/epg/prog_61c5d490f0bb9300014b4dcb/p_generic_Pt_61c335178a6158002173130d.png" />
+</channel>
   
-  <channel id="RUNTIME ACCION">
+<channel id="RUNTIME ACCION">
     <display-name lang="es">RUNTIME ACCION</display-name>
-	<icon src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" />
+</channel>
  
- <channel id="RUNTIME COMEDIA">
+<channel id="RUNTIME COMEDIA">
     <display-name lang="es">RUNTIME COMEDIA</display-name>
-	<icon src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" />
+</channel>
 
-  <channel id="RUNTIME THRILLER+TERROR">
+<channel id="RUNTIME THRILLER+TERROR">
     <display-name lang="es">RUNTIME THRILLER+TERROR</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" />
+</channel>
 
-  <channel id="RUNTIME CRIMEN">
+<channel id="RUNTIME CRIMEN">
     <display-name lang="es">RUNTIME CRIMEN</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" />
+</channel>
 
-  <channel id="RUNTIME ROMANCE">
+<channel id="RUNTIME ROMANCE">
     <display-name lang="es">RUNTIME ROMANCE</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
+</channel>
 
-  <channel id="RUNTIME">
+<channel id="RUNTIME">
     <display-name lang="es">RUNTIME</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
+</channel>
  
- <channel id="RUNTIME CLASICOS">
+<channel id="RUNTIME CLASICOS">
     <display-name lang="es">RUNTIME CLASICOS</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" />
+</channel>
 
-  <channel id="ITA PRINCIPIANTE">
+<channel id="ITA PRINCIPIANTE">
     <display-name lang="es">ITA PRINCIPIANTE</display-name>
-	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+</channel>
 
-  <channel id="ITA INTERMEDIO">
+<channel id="ITA INTERMEDIO">
     <display-name lang="es">ITA INTERMEDIO</display-name>
-        <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+</channel>
 
-  <channel id="ITA AVANZADO">
+<channel id="ITA AVANZADO">
     <display-name lang="es">ITA AVANZADO</display-name>
-	<icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-    </channel>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+</channel>
 
-  <channel id="QELLO CONCERTS">
+<channel id="QELLO CONCERTS">
     <display-name lang="es">QELLO CONCERTS</display-name>
-	<icon src="http://logo.protv.cc/picons-dino/logos/STINGRAY-QUELLO.png" />
-    </channel>
+    <icon src="http://logo.protv.cc/picons-dino/logos/STINGRAY-QUELLO.png" />
+</channel>
 
- <channel id="CADENA ELITE">
+<channel id="CADENA ELITE">
     <display-name lang="es">CADENA ELITE</display-name>
-	<icon src="https://www.cadenaelite.es/img/logoMenu.png" />
-    </channel>
+    <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+</channel>
 
- <channel id="Movistar+1 4K">
+<channel id="Movistar+1 4K">
     <display-name lang="es">Movistar+1 4K</display-name>
     <display-name lang="es">M+ Cine 1 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
- <channel id="Movistar+2 4K">
+<channel id="Movistar+2 4K">
     <display-name lang="es">Movistar+2 4K</display-name>
     <display-name lang="es">M+ Cine 2 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
- <channel id="Movistar+3 4K">
+<channel id="Movistar+3 4K">
     <display-name lang="es">Movistar+3 4K</display-name>
     <display-name lang="es">M+ Cine 3 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
- <channel id="Movistar+4 4K">
+<channel id="Movistar+4 4K">
     <display-name lang="es">Movistar+4 4K</display-name>
     <display-name lang="es">M+ Cine 4 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
- <channel id="Movistar+5 4K">
+<channel id="Movistar+5 4K">
     <display-name lang="es">Movistar+5 4K</display-name>
     <display-name lang="es">M+ Cine 5 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
- <channel id="Movistar+6 4K">
+<channel id="Movistar+6 4K">
     <display-name lang="es">Movistar+6 4K</display-name>
     <display-name lang="es">M+ Cine 6 4K</display-name>
-	<icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
-    </channel>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/c4kcma.png" />
+</channel>
 
 
-   <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CINE FEEL GOOD">
     <title lang="es">Cine para sentirse bien</title>
     <desc lang="es">| ★★★★★ | SC | Europa | Entretenimiento. 
 Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine positivo dirigido al gran público de todas las edades, protagonizado por películas capaces de hacernos sentir bien, donde lo que vale es disfrutar con el claro objetivo de que el espectador pase un rato agradable. En el canal Cine Feel Good, se podrá encontrar cine europeo de calidad, enfocado a un público dispuesto a disfrutar y aprender de él.. </desc>
@@ -116,9 +116,9 @@ Argumento: Cine Feel Good Verdi TV, como su nombre indica, es un canal de cine p
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
-   <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ACCION">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ACCION">
     <title lang="es">Cine de acción</title>
     <desc lang="es">| ★★★★★ | +18 | Europa/América | Acción. 
 Argumento: Canal temático de la plataforma Runtime en el que se emiten películas del género de acción. Contiene cortes publicitarios. </desc>
@@ -131,7 +131,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME COMEDIA">
     <title lang="es">Cine de comedia</title>
@@ -146,7 +146,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
   
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME THRILLER+TERROR">
     <title lang="es">Cine de Thriller y terror </title>
@@ -161,7 +161,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CRIMEN">
     <title lang="es">Cine de crimen</title>
@@ -176,9 +176,9 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ROMANCE">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME ROMANCE">
     <title lang="es">Cine romántico</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Romántico. 
 Argumento: Canal temático de la plataforma Runtime en el que se emiten películas románticas. Contiene cortes publicitarios. </desc>
@@ -191,7 +191,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
   
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME CLASICOS">
     <title lang="es">Cine clásico</title>
@@ -206,9 +206,9 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
   
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
     <title lang="es">Cine y series</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Todo el cine y series. 
 Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. Contiene cortes publicitarios. </desc>
@@ -221,9 +221,9 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>  
+</programme>  
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
     <title lang="es">Ingles nivel principiante</title>
     <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel principiante. </desc>
@@ -236,9 +236,9 @@ Argumento: Canal temático para aprender inglés a un nivel principiante. </desc
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA INTERMEDIO">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA INTERMEDIO">
     <title lang="es">Inglés nivel intermedio</title>
     <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
@@ -251,9 +251,9 @@ Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
 
-  <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA AVANZADO">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA AVANZADO">
     <title lang="es">Inglés nivel avanzado</title>
     <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
@@ -266,9 +266,9 @@ Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme>
+</programme>
   
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS">
     <title lang="es">Conciertos Qello Stingray</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
 Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray. Contiene cortes publicitarios.</desc>
@@ -281,9 +281,9 @@ Argumento: Conciertos en vivo de los artistas más importantes del panorama musi
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme> 
+</programme> 
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS 2">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS 2">
     <title lang="es">Conciertos 2 Qello Stingray</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
 Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray, canal 2. Contiene cortes publicitarios.</desc>
@@ -296,9 +296,9 @@ Argumento: Conciertos en vivo de los artistas más importantes del panorama musi
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme> 
+</programme> 
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
     <title lang="es">Música española y latina</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
 Argumento: Cadena musical con sede en Granada que emite musica española y latina 24/7.</desc>
@@ -311,9 +311,9 @@ Argumento: Cadena musical con sede en Granada que emite musica española y latin
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: Tp.</review>
-  </programme> 
+</programme> 
 
- <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+1 4K">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+1 4K">
     <title lang="es">Cine y series 4K HDR10</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Cine en 4K HDR10.
 Canal de la plataforma Movistar+ que emite durante todo el día películas en formato 4K HDR10. A veces no está activo el canal. Las películas emitidas son de acción y del universo Marvel.</desc>
@@ -325,7 +325,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+2 4K">
@@ -340,7 +340,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+3 4K">
     <title lang="es">Cine y series 4K HDR10</title>
@@ -354,7 +354,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+4 4K">
     <title lang="es">Cine y series 4K HDR10</title>
@@ -368,7 +368,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+5 4K">
     <title lang="es">Cine y series 4K HDR10</title>
@@ -382,7 +382,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Movistar+6 4K">
     <title lang="es">Cine y series 4K HDR10</title>
@@ -396,7 +396,7 @@ Canal de la plataforma Movistar+ que emite durante todo el día películas en fo
       <value>★★★★★</value>
     </star-rating>
     <review type="text">Ratings: SC.</review>
-  </programme> 
+</programme> 
 
 </tv>  
 
