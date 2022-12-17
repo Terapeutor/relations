@@ -31,8 +31,8 @@
     <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
 </channel>
 
-<channel id="RUNTIME">
-    <display-name lang="es">RUNTIME</display-name>
+<channel id="RUNTIMES">
+    <display-name lang="es">RUNTIMES</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" />
 </channel>
  
@@ -208,7 +208,7 @@ Argumento: Canal temático de la plataforma Runtime en el que se emiten películ
     <review type="text">Ratings: Tp.</review>
 </programme>
   
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIME">
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RUNTIMES">
     <title lang="es">Cine y series</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Todo el cine y series. 
 Argumento: Canal de la plataforma Runtime que durante todo el día va alternando películas y series de televisión. Contiene cortes publicitarios. </desc>
@@ -224,7 +224,7 @@ Argumento: Canal de la plataforma Runtime que durante todo el día va alternando
 </programme>  
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
-    <title lang="es">Ingles nivel principiante</title>
+    <title lang="es">Inglés nivel principiante</title>
     <desc lang="es">| ★★★★★ | TP | España | Educacional. 
 Argumento: Canal temático para aprender inglés a un nivel principiante. </desc>
     <category lang="es">Inglés</category>
