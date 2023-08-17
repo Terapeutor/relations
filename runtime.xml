@@ -16,11 +16,6 @@
     <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
 </channel>
 
-<channel id="QELLO CONCERTS">
-    <display-name lang="es">QELLO CONCERTS</display-name>
-    <icon src="http://logo.protv.cc/picons-dino/logos/STINGRAY-QUELLO.png" />
-</channel>
-
 <channel id="CADENA ELITE">
     <display-name lang="es">CADENA ELITE</display-name>
     <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
@@ -71,35 +66,6 @@ Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
     <review type="text">Ratings: Tp.</review>
 </programme>
   
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS">
-    <title lang="es">Conciertos Qello Stingray</title>
-    <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
-Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray. Contiene cortes publicitarios.</desc>
-    <category lang="es">Música</category>
-    <category lang="es">Conciertos</category>
-    <icon src="http://logo.protv.cc/picons-dino/logos/STINGRAY-QUELLO.png" />
-    <country lang="es">Varios</country>
-    <episode-num system="onscreen">Música online</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme> 
-
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="QELLO CONCERTS 2">
-    <title lang="es">Conciertos 2 Qello Stingray</title>
-    <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
-Argumento: Conciertos en vivo de los artistas más importantes del panorama musical de la plataforma Qello Stingray, canal 2. Contiene cortes publicitarios.</desc>
-    <category lang="es">Música</category>
-    <category lang="es">Conciertos</category>
-    <icon src="http://logo.protv.cc/picons-dino/logos/STINGRAY-QUELLO.png" />
-    <country lang="es">Varios</country>
-    <episode-num system="onscreen">Música online</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme> 
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
     <title lang="es">Música española y latina</title>
