@@ -8,22 +8,10 @@
     <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
 </channel>
 
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA PRINCIPIANTE">
-    <title lang="es">Inglés nivel principiante</title>
-    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
-Argumento: Canal temático para aprender inglés a un nivel principiante. </desc>
-    <category lang="es">Inglés</category>
-    <category lang="es">Educación</category>
-    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62c6c0362e44d90022697156_nivel-basico-caratula.png" />
-    <country lang="es">Ingles/Español</country>
-    <episode-num system="onscreen">Educación online</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme>
-
-  
+<channel id="LaLiga EA SPORTS">
+    <display-name lang="es">LaLiga EA SPORTS</display-name>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/laligastvplus.png" />
+</channel>
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
     <title lang="es">Música española y latina</title>
@@ -39,6 +27,25 @@ Argumento: Cadena musical con sede en Granada que emite musica española y latin
     </star-rating>
     <review type="text">Ratings: Tp.</review>
 </programme> 
+
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="LaLiga EA SPORTS">
+    <title lang="es">LaLiga EA Sports</title>
+    <desc lang="es">| ★★★★★ | TP | España | Deportivos. 
+Argumento: Canal de LaLiga EA Sports. Partidos de los equipos de la Primera División española.</desc>
+    <category lang="es">Varios idiomas</category>
+    <category lang="es">Deportivos</category>
+    <icon src="LaLiga EA SPORTS" />
+    <country lang="es">Inglés/Español/Griego/Belga</country>
+    <episode-num system="onscreen">Fútbol español</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+</programme>
+
+  
+
+
 
 </tv>  
 
