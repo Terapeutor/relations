@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 
-<channel id="ITA PRINCIPIANTE">
-    <display-name lang="es">ITA PRINCIPIANTE</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-</channel>
 
-<channel id="ITA INTERMEDIO">
-    <display-name lang="es">ITA INTERMEDIO</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-</channel>
-
-<channel id="ITA AVANZADO">
-    <display-name lang="es">ITA AVANZADO</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
-</channel>
 
 <channel id="CADENA ELITE">
     <display-name lang="es">CADENA ELITE</display-name>
@@ -36,35 +23,6 @@ Argumento: Canal temático para aprender inglés a un nivel principiante. </desc
     <review type="text">Ratings: Tp.</review>
 </programme>
 
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA INTERMEDIO">
-    <title lang="es">Inglés nivel intermedio</title>
-    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
-Argumento: Canal temático para aprender inglés a un nivel intermedio. </desc>
-    <category lang="es">Inglés/Español</category>
-    <category lang="es">Educación</category>
-    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62cfc102109c93001a7caa76_nivel-intermedio-caratula.png" />
-    <country lang="es">Inglés/Español</country>
-    <episode-num system="onscreen">Educación online</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme>
-
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="ITA AVANZADO">
-    <title lang="es">Inglés nivel avanzado</title>
-    <desc lang="es">| ★★★★★ | TP | España | Educacional. 
-Argumento: Canal temático para aprender inglés a un nivel avanzado. </desc>
-    <category lang="es">Inglés/Español</category>
-    <category lang="es">Educación</category>
-    <icon src="https://media.tvup.cloud/epg/ser_undefined/p_62d144cf28f322002149e8d8_nivel-avanzado-caratula.png" />
-    <country lang="es">Inglés/Español</country>
-    <episode-num system="onscreen">Educación online</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme>
   
 
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
