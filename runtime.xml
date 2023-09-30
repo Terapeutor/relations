@@ -13,11 +13,6 @@
     <icon src="https://www.mundoplus.tv/wiki/_media/logos/laligastvplus.png" />
 </channel>
 
-<channel id="Premier League TV">
-    <display-name lang="es">Premier League TV</display-name>
-    <icon src="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" />
-</channel>
-
 <programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="CADENA ELITE">
     <title lang="es">Música española y latina</title>
     <desc lang="es">| ★★★★★ | SC | Europa/América | Música. 
@@ -39,7 +34,7 @@ Argumento: Cadena musical con sede en Granada que emite musica española y latin
 Argumento: Canal de LaLiga EA Sports. Partidos de los equipos de la Primera División española.</desc>
     <category lang="es">Varios idiomas</category>
     <category lang="es">Deportivos</category>
-    <icon src="LaLiga EA SPORTS" />
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/laligastvplus.png" />
     <country lang="es">Inglés/Español/Griego/Belga</country>
     <episode-num system="onscreen">Fútbol español</episode-num>
     <star-rating system="ES">
@@ -47,22 +42,6 @@ Argumento: Canal de LaLiga EA Sports. Partidos de los equipos de la Primera Divi
     </star-rating>
     <review type="text">Ratings: Tp.</review>
 </programme>
-
-<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="Premier League TV">
-    <title lang="es">Premier League TV</title>
-    <desc lang="es">| ★★★★★ | TP | España | Deportivos. 
-Argumento: Canal de La Premier League. Partidos de los equipos de la Primera División Inglesa.</desc>
-    <category lang="en">Inglés</category>
-    <category lang="es">Deportivos</category>
-    <icon src="Premier League TV" />
-    <country lang="es">Inglés</country>
-    <episode-num system="onscreen">Fútbol Inglés</episode-num>
-    <star-rating system="ES">
-      <value>★★★★★</value>
-    </star-rating>
-    <review type="text">Ratings: Tp.</review>
-</programme>  
-
 
 
 </tv>  
