@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 
-
+<channel id="RMTV English">
+    <display-name lang="es">RMTV English</display-name>
+    <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+</channel>
 
 <channel id="CADENA ELITE">
     <display-name lang="es">CADENA ELITE</display-name>
-    <icon src="https://www.cadenaelite.es/img/logoMenu.png" />
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/rm.png" />
 </channel>
 
 <channel id="LaLiga EA SPORTS">
@@ -42,6 +45,22 @@ Argumento: Canal de LaLiga EA Sports. Partidos de los equipos de la Primera Divi
     </star-rating>
     <review type="text">Ratings: Tp.</review>
 </programme>
+
+<programme start="20221117005600 +0100" stop="20301103015500 +0100" channel="RMTV English">
+    <title lang="es">RMTV English</title>
+    <desc lang="es">| ★★★★★ | TP | España | Deportivos. 
+Argumento:Real Madrid TV English. Versión internacional del canal del mejor equipo del mundo.</desc>
+    <category lang="es">Varios idiomas</category>
+    <category lang="es">Deportivos</category>
+    <icon src="https://www.mundoplus.tv/wiki/_media/logos/rm.png" />
+    <country lang="es">Inglés/Español</country>
+    <episode-num system="onscreen">Fútbol Real Madrid</episode-num>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+</programme>
+
 
 
 </tv>  
